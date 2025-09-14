@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/663484191249319354/a59e38a7b6a649fa915f83d23fb1670d/artifacts
+end_time: 1757836447402
+entry_point_name: ''
+experiment_id: '663484191249319354'
+lifecycle_stage: active
+run_id: a59e38a7b6a649fa915f83d23fb1670d
+run_name: EDA
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757836441002
+status: 3
+tags: []
+user_id: boomi
