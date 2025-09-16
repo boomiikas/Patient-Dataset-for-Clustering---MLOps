@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/f417f520a8684414b9204605310145ec/artifacts
+deleted_time: 1757997754740
 end_time: 1757858939209
 entry_point_name: ''
 experiment_id: '600967680804520827'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f417f520a8684414b9204605310145ec
 run_name: aged-stag-233
 source_name: ''

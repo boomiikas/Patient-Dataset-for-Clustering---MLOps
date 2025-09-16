@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/43a1b29bce7d46839fb5b1c1e0e36a70/artifacts
+deleted_time: 1757997754738
 end_time: 1757858793207
 entry_point_name: ''
 experiment_id: '600967680804520827'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 43a1b29bce7d46839fb5b1c1e0e36a70
 run_name: likeable-gnat-10
 source_name: ''

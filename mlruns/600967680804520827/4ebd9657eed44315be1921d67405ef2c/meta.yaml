@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/4ebd9657eed44315be1921d67405ef2c/artifacts
+deleted_time: 1757997754737
 end_time: 1757860212696
 entry_point_name: ''
 experiment_id: '600967680804520827'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4ebd9657eed44315be1921d67405ef2c
 run_name: shivering-fawn-557
 source_name: ''

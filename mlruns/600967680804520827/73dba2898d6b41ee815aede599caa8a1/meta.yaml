@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/73dba2898d6b41ee815aede599caa8a1/artifacts
+deleted_time: 1757997754725
 end_time: 1757932130266
 entry_point_name: ''
 experiment_id: '600967680804520827'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 73dba2898d6b41ee815aede599caa8a1
 run_name: unruly-horse-694
 source_name: ''

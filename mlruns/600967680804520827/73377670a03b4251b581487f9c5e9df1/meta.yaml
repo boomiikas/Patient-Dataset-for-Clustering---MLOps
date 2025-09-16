@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/73377670a03b4251b581487f9c5e9df1/artifacts
+deleted_time: 1757997754720
 end_time: 1757860450401
 entry_point_name: ''
 experiment_id: '600967680804520827'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 73377670a03b4251b581487f9c5e9df1
 run_name: unleashed-sponge-109
 source_name: ''
