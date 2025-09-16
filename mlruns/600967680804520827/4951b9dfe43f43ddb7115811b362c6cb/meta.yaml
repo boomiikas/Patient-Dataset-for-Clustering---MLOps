@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/4951b9dfe43f43ddb7115811b362c6cb/artifacts
+end_time: 1757860276726
+entry_point_name: ''
+experiment_id: '600967680804520827'
+lifecycle_stage: active
+run_id: 4951b9dfe43f43ddb7115811b362c6cb
+run_name: gaudy-foal-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757860249041
+status: 3
+tags: []
+user_id: boomi

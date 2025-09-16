@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/605476711416452694/5995f5abf0e14948b3d1452273311eef/artifacts
+end_time: 1757932065464
+entry_point_name: ''
+experiment_id: '605476711416452694'
+lifecycle_stage: active
+run_id: 5995f5abf0e14948b3d1452273311eef
+run_name: Skew_and_Target_Balance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757932065301
+status: 3
+tags: []
+user_id: boomi

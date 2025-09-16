@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/710d15cbf9804b46b076f1e64cd77d1a/artifacts
+end_time: 1757857103102
+entry_point_name: ''
+experiment_id: '505507590316955577'
+lifecycle_stage: active
+run_id: 710d15cbf9804b46b076f1e64cd77d1a
+run_name: carefree-fawn-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857095761
+status: 3
+tags: []
+user_id: boomi

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/51f825d2279f4ad5a4c0d59d9cd9d8c5/artifacts
+end_time: 1757987686151
+entry_point_name: ''
+experiment_id: '600967680804520827'
+lifecycle_stage: active
+run_id: 51f825d2279f4ad5a4c0d59d9cd9d8c5
+run_name: nimble-grouse-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757987660424
+status: 3
+tags: []
+user_id: boomi

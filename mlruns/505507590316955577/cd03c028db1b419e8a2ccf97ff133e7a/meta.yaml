@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/cd03c028db1b419e8a2ccf97ff133e7a/artifacts
+end_time: 1757856733281
+entry_point_name: ''
+experiment_id: '505507590316955577'
+lifecycle_stage: active
+run_id: cd03c028db1b419e8a2ccf97ff133e7a
+run_name: calm-bear-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757856724585
+status: 3
+tags: []
+user_id: boomi

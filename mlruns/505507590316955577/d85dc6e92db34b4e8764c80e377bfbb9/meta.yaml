@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/d85dc6e92db34b4e8764c80e377bfbb9/artifacts
+end_time: 1757987660373
+entry_point_name: ''
+experiment_id: '505507590316955577'
+lifecycle_stage: active
+run_id: d85dc6e92db34b4e8764c80e377bfbb9
+run_name: indecisive-snail-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757987652906
+status: 3
+tags: []
+user_id: boomi

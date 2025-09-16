@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/1defd2fee7764c1db33364a2b06ba83a/artifacts
+end_time: 1757988019684
+entry_point_name: ''
+experiment_id: '600967680804520827'
+lifecycle_stage: active
+run_id: 1defd2fee7764c1db33364a2b06ba83a
+run_name: secretive-shoat-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757987994085
+status: 3
+tags: []
+user_id: boomi

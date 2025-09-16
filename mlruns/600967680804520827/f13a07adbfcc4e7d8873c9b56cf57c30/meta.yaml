@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/600967680804520827/f13a07adbfcc4e7d8873c9b56cf57c30/artifacts
+end_time: 1757985064682
+entry_point_name: ''
+experiment_id: '600967680804520827'
+lifecycle_stage: active
+run_id: f13a07adbfcc4e7d8873c9b56cf57c30
+run_name: smiling-snipe-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757985038443
+status: 3
+tags: []
+user_id: boomi

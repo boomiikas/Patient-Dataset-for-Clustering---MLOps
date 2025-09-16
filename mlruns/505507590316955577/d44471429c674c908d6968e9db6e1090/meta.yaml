@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/d44471429c674c908d6968e9db6e1090/artifacts
+end_time: 1757988171734
+entry_point_name: ''
+experiment_id: '505507590316955577'
+lifecycle_stage: active
+run_id: d44471429c674c908d6968e9db6e1090
+run_name: beautiful-goose-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757988164482
+status: 3
+tags: []
+user_id: boomi

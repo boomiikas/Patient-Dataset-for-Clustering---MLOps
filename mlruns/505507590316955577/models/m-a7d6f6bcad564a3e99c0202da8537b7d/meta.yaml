@@ -1,0 +1,10 @@
+artifact_location: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/models/m-a7d6f6bcad564a3e99c0202da8537b7d/artifacts
+creation_timestamp: 1757856725171
+experiment_id: '505507590316955577'
+last_updated_timestamp: 1757856730151
+model_id: m-a7d6f6bcad564a3e99c0202da8537b7d
+model_type: null
+name: KMeans_Model
+source_run_id: cd03c028db1b419e8a2ccf97ff133e7a
+status: 2
+status_message: null

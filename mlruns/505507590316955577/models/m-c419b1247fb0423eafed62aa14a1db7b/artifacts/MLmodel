@@ -1,0 +1,22 @@
+artifact_path: file:///d:/AI%20workspace/day17-MLOps/Patient-Dataset-for-Clustering---MLOps/mlruns/505507590316955577/models/m-c419b1247fb0423eafed62aa14a1db7b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-c419b1247fb0423eafed62aa14a1db7b
+model_size_bytes: 25214
+model_uuid: m-c419b1247fb0423eafed62aa14a1db7b
+prompts: null
+run_id: d85dc6e92db34b4e8764c80e377bfbb9
+utc_time_created: '2025-09-16 01:54:13.639541'
