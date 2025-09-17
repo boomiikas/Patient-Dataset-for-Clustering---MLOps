@@ -23,7 +23,6 @@ project-folder/
 │── app.py            # Main Gradio app
 │── requirements.txt  # Python dependencies
 │── README.md         # Project documentation
-│── music.mp3         # (Optional) sound file if you want audio feedback
 │── assets/           # (Optional) images, logos, etc.
 │── mlruns/           # MLflow experiment tracking data (auto-generated)
 ```
