@@ -3,6 +3,7 @@
 This is a **Machine Learning + Web App** built using [Gradio](https://www.gradio.app/).  
 It provides a simple **login system** and, after successful login, allows users to input patient details for clustering and prediction.  
 The project also integrates **MLflow** for experiment tracking and MLOps workflow management.
+**Demo link :** https://huggingface.co/spaces/boomiikas/Patient-dataset-clustering
 
 ---
 
@@ -66,8 +67,6 @@ Open it in your browser to access the app.
 - **Username:** `admin`  
 - **Password:** `password123`  
 
-*(You can modify this in `app.py`.)*
-
 ---
 
 ## 📊 MLflow Usage
@@ -92,13 +91,9 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) to view:
 ---
 
 ## 📸 Screenshots
-*(Add your own screenshots here — login page, prediction page, MLflow UI, etc.)*
 
----
-
-## 📌 Notes
-- Keep `app.py`, `patient_data_cleaned.csv`, and assets in the same folder.  
-- MLflow will automatically create an `mlruns/` folder to store experiments.  
+<img width="1228" height="639" alt="image" src="https://github.com/user-attachments/assets/725311cd-f90a-42f4-977f-de62d8d1bbb6" />
+<img width="1025" height="879" alt="image" src="https://github.com/user-attachments/assets/560c7291-c3fc-47ff-bbb8-ab7c253d22cf" />
 
 ---
 
